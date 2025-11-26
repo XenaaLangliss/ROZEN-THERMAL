@@ -1,0 +1,7 @@
+id=RozenThermal
+name=Rozen Thermal
+version=v1.5
+versionCode=1
+author=@XenaaLangliss
+description=Simple disable thermal. (no disable thermal-hal-2)
+banner=https://raw.githubusercontent.com/XenaaLangliss/ROZEN-THERMAL/rozen_thermal/505.jpeg
